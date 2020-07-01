@@ -16,6 +16,7 @@
     /* Can this connector write data ? */
     "writable": false,
 
+    
 
     /* params:
     DSS will generate a formular from this list of requested parameters.
